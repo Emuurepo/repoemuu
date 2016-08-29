@@ -1,0 +1,14 @@
+Package: com.Emuu.Tenuis
+Name: Tenuis
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is the  beta of Tenuis, a new simple theme for all you device!
+Homepage: http://modmyi.com/
+Maintainer: emmanuel.tesauro@gmail.com
+Author: Emuu
+Sponsor: ModMyi.com
+Section: Themes
+Depends: com.anemonetheming.anemone
+MD5: 07c3519cec7bbf5db03d420b5ced2ca2
+SHA1: e9f781e4805ae173aacdc3623596f13816a392d2
+SHA256: 1888dcbc8e8d4efd34885a672859e25ffce1249faf583100d0f2b039bb51c02f
